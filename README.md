@@ -1,7 +1,7 @@
 ###  hi my name is yeonjunkim👋
 - 🌱 I’m currently learning Road to PM
 - 📫 How to reach me: yeonjun9223@gmail.com
-- 😄 Pronouns: fashionist
+- 😄 Pronouns: 패션애호가,운동애호가
 - ⚡ Fun fact: Between indifference and kindness
 
 <!--
