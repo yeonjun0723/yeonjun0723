@@ -1,5 +1,5 @@
 ###  hihi👋
-I am a round stone! I dream of becoming a planner and am studying hard. It's still not enough, but I'll work hard!!!!
+I am dolmeng-i! I dream of becoming a planner and am studying hard. It's still not enough, but I'll work hard!!!!
 
 
 <!--
