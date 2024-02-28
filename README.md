@@ -1,5 +1,5 @@
-### Hi there 👋
-안녕하세요!!!! 저는 돌멩이입니다
+###  안녕👋
+저는 동글동글 돌멩이입니다
 <!--
 **yeonjun0723/yeonjun0723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
