@@ -1,18 +1,16 @@
-###  hihi👋
-I am dolmeng-i! I dream of becoming a planner and am studying hard. It's still not enough, but I'll work hard!!!!
-
+###  hi my name is yeonjunkim👋
+- 🌱 I’m currently learning Road to PM
+- 📫 How to reach me: yeonjun9223@gmail.com
+- 😄 Pronouns: fashionist
+- ⚡ Fun fact: Between indifference and kindness
 
 <!--
 **yeonjun0723/yeonjun0723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning Road to PM
+- 📫 How to reach me: yeonjun9223@gmail.com
+- 😄 Pronouns: fashionist
+- ⚡ Fun fact: Between indifference and kindness
 -->
