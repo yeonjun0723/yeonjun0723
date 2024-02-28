@@ -1,5 +1,5 @@
 ###  안녕👋
-저는 동글동글 돌멩이입니다
+저는 동글동글 돌멩이에요! 기획자를 꿈꾸고 있고 열심히 공부중이에요. 아직 부족하지만 열심히 노오오력할게요!!!!
 <!--
 **yeonjun0723/yeonjun0723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
