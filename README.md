@@ -3,7 +3,7 @@
 - 📫 How to reach me: yeonjun9223@gmail.com
 - 😄 Pronouns: 돌 애호가
 - ⚡ Fun fact: Between indifference and kindness
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="left">SKIll</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
