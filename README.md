@@ -1,5 +1,5 @@
-###  안녕👋
-저는 동글동글 돌멩이에요! 기획자를 꿈꾸고 있고 열심히 공부중이에요. 아직 부족하지만 열심히 노오오력할게요!!!!
+###  hihi👋
+I am a round stone! I dream of becoming a planner and am studying hard. It's still not enough, but I'll work hard!!!!
 
 
 <!--
